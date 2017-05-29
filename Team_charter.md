@@ -1,11 +1,11 @@
 # Vision
 
-The **vision** of the **Cardiac Mechanics Group** and "Cardiac Magnetic Resonance Imaging Group" is to develop cutting-edge computational modelling frameworks to aid analysis of clinical and pre-clinical medical images in order to 1) enable personalised diagnosis of cardiovascular diseases; 2) improve precision and efficiancy of diagnosis by removing subjective judgements; 3) allow for mechanisms-driven treatment strategies on a patient-specific basis.   
+The **vision** of the **Cardiac Mechanics Group** and **Cardiac Magnetic Resonance Imaging Group** is to develop cutting-edge computational modelling frameworks to aid analysis of clinical and pre-clinical medical images in order to 1) enable personalised diagnosis of cardiovascular diseases; 2) improve precision and efficiancy of diagnosis by removing subjective judgements; 3) allow for mechanisms-driven treatment strategies on a patient-specific basis.   
 
 
 # Mission
 
-The mission of the team is to integrate state-of-the-art medical imaging technologies with computational and mathematical modelling techniques to develop novel personalised analysis cardiac geometry and function. 
+The **mission** of the team is to integrate state-of-the-art medical imaging technologies with computational and mathematical modelling techniques to develop novel personalised analysis cardiac geometry and function. 
 
 
 # Success Criteria
