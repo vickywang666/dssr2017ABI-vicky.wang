@@ -19,6 +19,8 @@ Success criteria can be in multiples stages.
 
 Maintain a highly collaborative, supportive and open-minded research environment. 
 
+# Communicatio Agreement
+
 # Project Team
 
 This team consists of 5 members, roles and responsibilities for individual memeber is listed below:
